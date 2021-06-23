@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App01SQLite</string>
+    <string name="app_nombres">nombres</string>
+    <string name="app_apellidos">apellidos</string>
+    <string name="app_edad">edad</string>
+    <string name="app_correo">correo</string>
+    <string name="direccion">direccion</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
